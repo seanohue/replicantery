@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "commander": "^2.19.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "optimist": "",
     "rando-js": "^0.2.0",
     "random-words": "^1.1.1",
